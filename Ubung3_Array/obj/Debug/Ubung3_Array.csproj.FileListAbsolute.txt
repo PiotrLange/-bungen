@@ -1,0 +1,7 @@
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung3_Array\bin\Debug\Ubung3_Array.exe.config
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung3_Array\bin\Debug\Ubung3_Array.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung3_Array\bin\Debug\Ubung3_Array.pdb
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung3_Array\obj\Debug\Ubung3_Array.csproj.AssemblyReference.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung3_Array\obj\Debug\Ubung3_Array.csproj.CoreCompileInputs.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung3_Array\obj\Debug\Ubung3_Array.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung3_Array\obj\Debug\Ubung3_Array.pdb

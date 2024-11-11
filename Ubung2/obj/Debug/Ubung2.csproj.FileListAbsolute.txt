@@ -1,0 +1,7 @@
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung2\bin\Debug\Ubung2.exe.config
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung2\bin\Debug\Ubung2.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung2\bin\Debug\Ubung2.pdb
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung2\obj\Debug\Ubung2.csproj.AssemblyReference.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung2\obj\Debug\Ubung2.csproj.CoreCompileInputs.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung2\obj\Debug\Ubung2.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung2\obj\Debug\Ubung2.pdb

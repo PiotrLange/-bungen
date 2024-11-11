@@ -1,0 +1,7 @@
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\MicrosoftTestProgramm1\bin\Debug\MicrosoftTestProgramm1.exe.config
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\MicrosoftTestProgramm1\bin\Debug\MicrosoftTestProgramm1.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\MicrosoftTestProgramm1\bin\Debug\MicrosoftTestProgramm1.pdb
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\MicrosoftTestProgramm1\obj\Debug\MicrosoftTestProgramm1.csproj.AssemblyReference.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\MicrosoftTestProgramm1\obj\Debug\MicrosoftTestProgramm1.csproj.CoreCompileInputs.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\MicrosoftTestProgramm1\obj\Debug\MicrosoftTestProgramm1.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\MicrosoftTestProgramm1\obj\Debug\MicrosoftTestProgramm1.pdb

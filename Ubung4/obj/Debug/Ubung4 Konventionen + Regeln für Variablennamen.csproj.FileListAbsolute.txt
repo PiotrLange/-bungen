@@ -1,0 +1,7 @@
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung4\bin\Debug\Ubung4.exe.config
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung4\bin\Debug\Ubung4.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung4\bin\Debug\Ubung4.pdb
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung4\obj\Debug\Ubung4 Konventionen + Regeln für Variablennamen.csproj.AssemblyReference.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung4\obj\Debug\Ubung4 Konventionen + Regeln für Variablennamen.csproj.CoreCompileInputs.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung4\obj\Debug\Ubung4.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung4\obj\Debug\Ubung4.pdb

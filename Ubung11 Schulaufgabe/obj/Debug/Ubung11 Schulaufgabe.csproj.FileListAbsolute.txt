@@ -1,0 +1,7 @@
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung11 Schulaufgabe\bin\Debug\Ubung11 Schulaufgabe.exe.config
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung11 Schulaufgabe\bin\Debug\Ubung11 Schulaufgabe.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung11 Schulaufgabe\bin\Debug\Ubung11 Schulaufgabe.pdb
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung11 Schulaufgabe\obj\Debug\Ubung11 Schulaufgabe.csproj.AssemblyReference.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung11 Schulaufgabe\obj\Debug\Ubung11 Schulaufgabe.csproj.CoreCompileInputs.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung11 Schulaufgabe\obj\Debug\Ubung11 Schulaufgabe.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung11 Schulaufgabe\obj\Debug\Ubung11 Schulaufgabe.pdb

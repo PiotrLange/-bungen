@@ -1,0 +1,7 @@
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung9 Konvertieren von Datentypen\obj\Debug\Ubung9 Konvertieren von Datentypen.csproj.AssemblyReference.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung9 Konvertieren von Datentypen\obj\Debug\Ubung9 Konvertieren von Datentypen.csproj.CoreCompileInputs.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung9 Konvertieren von Datentypen\bin\Debug\Ubung9 Konvertieren von Datentypen.exe.config
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung9 Konvertieren von Datentypen\bin\Debug\Ubung9 Konvertieren von Datentypen.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung9 Konvertieren von Datentypen\bin\Debug\Ubung9 Konvertieren von Datentypen.pdb
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung9 Konvertieren von Datentypen\obj\Debug\Ubung9 Konvertieren von Datentypen.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung9 Konvertieren von Datentypen\obj\Debug\Ubung9 Konvertieren von Datentypen.pdb

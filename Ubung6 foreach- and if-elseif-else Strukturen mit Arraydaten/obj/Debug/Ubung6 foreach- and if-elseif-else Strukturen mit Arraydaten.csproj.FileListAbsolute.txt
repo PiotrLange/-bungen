@@ -1,0 +1,7 @@
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten\bin\Debug\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten.exe.config
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten\bin\Debug\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten\bin\Debug\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten.pdb
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten\obj\Debug\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten.csproj.AssemblyReference.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten\obj\Debug\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten.csproj.CoreCompileInputs.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten\obj\Debug\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten\obj\Debug\Ubung6 foreach- and if-elseif-else Strukturen mit Arraydaten.pdb

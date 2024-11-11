@@ -1,0 +1,7 @@
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten\bin\Debug\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten.exe.config
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten\bin\Debug\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten\bin\Debug\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten.pdb
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten\obj\Debug\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten.csproj.AssemblyReference.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten\obj\Debug\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten.csproj.CoreCompileInputs.cache
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten\obj\Debug\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten.exe
+C:\Users\PiotrLange(ploonitgr\source\repos\MicrosoftTestProgramm1\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten\obj\Debug\Ubung 5 foreach- und if-elseif-else- um Arraydaten zu Verarbeiten.pdb
