@@ -13,19 +13,44 @@ namespace Ubung12
     {
         static void Main(string[] args)
         {
-          void SayHello(string name) 
+
+            int heroLive = 20;
+            int monsterLive = 20;
+
+            Random randomFight = new Random();
+
+            Console.WriteLine($"Hero Live is {heroLive} and Monster Live is {monsterLive}");
+
+            do
             {
-            Console.WriteLine("Hallo " + name);
-                Console.WriteLine("Wie gehts");
-                Console.WriteLine("----");
+                int heroAtak = randomFight.Next(1, 4);
+                monsterLive -= heroAtak;
+                Console.WriteLine($"Monster was demaged and lost {heroAtak} from his Live");
+
+                if (monsterLive <= 0)
+                {
+                    Console.WriteLine("Hero Wins !!");
+                    break;
+                }
+
+                int monsteAtak = randomFight.Next(1, 4);
+                monsterLive -= monsteAtak;
+                Console.WriteLine($"Hero was demaged and lost {monsteAtak} from his Live");
+
+                if (heroLive <= 0)
+                {
+                    Console.WriteLine("Monster Wins !!");
+                    break;
+                }
+
+
+
             }
-            SayHello("Alina");
-            SayHello("Darek");
+            while (heroLive > 0 && monsterLive > 0);
 
             Console.ReadLine();
         }
-
     }
 
-    }
+}
 

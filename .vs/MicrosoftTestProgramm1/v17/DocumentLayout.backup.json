@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PiotrLange(ploonitgr\\Desktop\\C# \u00DCbungen\\MicrosoftTestProgramm1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6EA5620E-91A3-4E87-83E7-5F915B50C86F}|Ubung 14\\Ubung 14.csproj|c:\\users\\piotrlange(ploonitgr\\desktop\\c# \u00FCbungen\\microsofttestprogramm1\\ubung 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA5620E-91A3-4E87-83E7-5F915B50C86F}|Ubung 14\\Ubung 14.csproj|solutionrelative:ubung 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D240D8C-3423-450C-BE8A-7588F345AD7A}|Ubung 13\\Ubung 13.csproj|c:\\users\\piotrlange(ploonitgr\\desktop\\c# \u00FCbungen\\microsofttestprogramm1\\ubung 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D240D8C-3423-450C-BE8A-7588F345AD7A}|Ubung 13\\Ubung 13.csproj|solutionrelative:ubung 13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE6A6862-528D-4B05-A36C-5414F1949BD7}|Ubung12\\Ubung12.csproj|c:\\users\\piotrlange(ploonitgr\\desktop\\c# \u00FCbungen\\microsofttestprogramm1\\ubung12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE6A6862-528D-4B05-A36C-5414F1949BD7}|Ubung12\\Ubung12.csproj|solutionrelative:ubung12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2006AE85-191B-4660-8D60-3150B7B1D768}|Ubung2\\Ubung2.csproj|c:\\users\\piotrlange(ploonitgr\\desktop\\c# \u00FCbungen\\microsofttestprogramm1\\ubung2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2006AE85-191B-4660-8D60-3150B7B1D768}|Ubung2\\Ubung2.csproj|solutionrelative:ubung2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +40,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PiotrLange(ploonitgr\\Desktop\\C# \u00DCbungen\\MicrosoftTestProgramm1\\Ubung 14\\Program.cs",
+              "RelativeDocumentMoniker": "Ubung 14\\Program.cs",
+              "ToolTip": "C:\\Users\\PiotrLange(ploonitgr\\Desktop\\C# \u00DCbungen\\MicrosoftTestProgramm1\\Ubung 14\\Program.cs*",
+              "RelativeToolTip": "Ubung 14\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:04:33.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PiotrLange(ploonitgr\\Desktop\\C# \u00DCbungen\\MicrosoftTestProgramm1\\Ubung 13\\Program.cs",
+              "RelativeDocumentMoniker": "Ubung 13\\Program.cs",
+              "ToolTip": "C:\\Users\\PiotrLange(ploonitgr\\Desktop\\C# \u00DCbungen\\MicrosoftTestProgramm1\\Ubung 13\\Program.cs",
+              "RelativeToolTip": "Ubung 13\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:51:34.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PiotrLange(ploonitgr\\Desktop\\C# \u00DCbungen\\MicrosoftTestProgramm1\\Ubung2\\Program.cs",
+              "RelativeDocumentMoniker": "Ubung2\\Program.cs",
+              "ToolTip": "C:\\Users\\PiotrLange(ploonitgr\\Desktop\\C# \u00DCbungen\\MicrosoftTestProgramm1\\Ubung2\\Program.cs",
+              "RelativeToolTip": "Ubung2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:35:25.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PiotrLange(ploonitgr\\Desktop\\C# \u00DCbungen\\MicrosoftTestProgramm1\\Ubung12\\Program.cs",
               "RelativeDocumentMoniker": "Ubung12\\Program.cs",
               "ToolTip": "C:\\Users\\PiotrLange(ploonitgr\\Desktop\\C# \u00DCbungen\\MicrosoftTestProgramm1\\Ubung12\\Program.cs",
               "RelativeToolTip": "Ubung12\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T09:09:49.438Z",
               "EditorCaption": ""

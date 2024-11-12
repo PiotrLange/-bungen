@@ -1,0 +1,7 @@
+C:\Users\PiotrLange(ploonitgr\Desktop\C# Übungen\MicrosoftTestProgramm1\Ubung 14\bin\Debug\Ubung 14.exe.config
+C:\Users\PiotrLange(ploonitgr\Desktop\C# Übungen\MicrosoftTestProgramm1\Ubung 14\bin\Debug\Ubung 14.exe
+C:\Users\PiotrLange(ploonitgr\Desktop\C# Übungen\MicrosoftTestProgramm1\Ubung 14\bin\Debug\Ubung 14.pdb
+C:\Users\PiotrLange(ploonitgr\Desktop\C# Übungen\MicrosoftTestProgramm1\Ubung 14\obj\Debug\Ubung14 String to Array and Reverse.csproj.AssemblyReference.cache
+C:\Users\PiotrLange(ploonitgr\Desktop\C# Übungen\MicrosoftTestProgramm1\Ubung 14\obj\Debug\Ubung14 String to Array and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\PiotrLange(ploonitgr\Desktop\C# Übungen\MicrosoftTestProgramm1\Ubung 14\obj\Debug\Ubung 14.exe
+C:\Users\PiotrLange(ploonitgr\Desktop\C# Übungen\MicrosoftTestProgramm1\Ubung 14\obj\Debug\Ubung 14.pdb
